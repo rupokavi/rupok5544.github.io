@@ -1,0 +1,105 @@
+- title: General
+  type: map
+  contents:
+    - name: Full Name
+      value: Md Abrar Jahin
+    - name: Email
+      value: abrar.jahin.2652[at]gmail.com
+    - name: Pronouns
+      value: he/him
+    - name: Links
+      links:
+        - name: LinkedIn
+          link: https://www.linkedin.com/in/md-abrar-jahin
+        - name: Scholar
+          link: https://scholar.google.com/citations?user=VKKO-zAAAAAJ
+        - name: GitHub
+          link: https://github.com/Abrar2652
+        - name: ResearchGate
+          link: https://www.researchgate.net/profile/Md-Abrar-Jahin-2/
+        - name: Knowledge Panel
+          link: https://g.co/kgs/M47Yfsc
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: University of Southern California
+      department: Thomas Lord Department of Computer Science
+      year: 2025 - Present
+      description:
+        - Awarded USC Graduate Fellowship for the 1st year
+
+    - title: B.Sc. in Industrial & Production Engineering
+      institution: Khulna University of Engineering & Technology
+      department: Department of Industrial Engineering and Management
+      year: 2019 - 2024
+      description:
+        - CGPA 3.83/4.00 (Top 5%)
+        - Dean's award 3x for achieving annual CGPA above 3.75
+        - Undergrad thesis titled "Supply Chain Backorder Prediction Using Interpretable Hybrid Quantum—Classical Neural Network" <a href="https://www.nature.com/articles/s41598-023-45406-7">[Publication]</a>
+
+
+- title: Research Experiences
+  type: time_table
+  contents:
+    - title: AI Researcher
+      institution: Center on Knowledge Graphs, Information Sciences Institute (ISI), CA, USA
+      year: 2025 - Present
+      maindescription: Advised by Prof. Craig Knoblock and Prof. Jay Pujara
+      description:
+        - Research is generously funded by DARPA
+
+    - title: Lead Researcher
+      institution: Advanced Machine Intelligence Research Lab (AMIRL), Bangladesh
+      year: 2023 - 2025
+      maindescription: Advised by Prof. Mohammad Firoz Mridha, Prof. Nilanjan Dey, and Prof. Jungpil Shin
+      description:
+        - Published articles in the fields of DL, QML, GNN, XAI, conformal prediction, human-in-the-loop, NLP, and operations research
+
+    - title: Visiting Researcher
+      institution: Okinawa Institute of Science and Technology Graduate University (OIST), Japan
+      department: Physics and Biology Unit
+      year: 2024 - 2025
+      maindescription: Advised by Prof. Jonathan Miller [BS (Yale); PhD Biology (Cambridge); PhD Physics (Caltech)]
+      description:
+        - Research project "Evolutionary Dynamics of Strongly Conserved Sequences"
+
+    - title: Visiting Research Student (VRS)
+      institution: Okinawa Institute of Science and Technology Graduate University (OIST), Japan
+      department: Physics and Biology Unit
+      year: 2023 - 2024
+      maindescription: Advised by Prof. Jonathan Miller
+      description:
+        - Collaborated with Dr. Lucia Zifcakova, Dr. Priscila Do Nascimento Biller, Dr. Zdenek Lajbner, and Dr. Reuven Pnini
+
+    - title: Research Intern (RI)
+      institution: Okinawa Institute of Science and Technology Graduate University (OIST), Japan
+      department: Physics and Biology Unit
+      year: 2021 - 2022
+      maindescription: Advised by Prof. Jonathan Miller
+      description:
+        - Awarded with full-funded scholarship with a daily allowance of JPY 2400 per working day (taxable)
+
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: KUET B.Sc. Thesis LaTeX Template
+      year: 2024
+      maindescription: Developed the first-ever LaTeX template for B.Sc. Undergrad Thesis of KUET <a href="https://www.overleaf.com/latex/templates/kuet-b-dot-sc-thesis-template-md-abrar-jahin/gkcnqrscxpqm">[Template]</a>
+
+
+- title: Skills
+  type: map
+  contents:
+    - name: Programming
+      value: Python, C/C++, R, Kotlin, SQL, SAS, Data Structure and Algorithm, Object Orient Programming
+    - name: AI
+      value: TensorFlow, PyTorch, Keras, scikit-learn, spaCy, scipy, Transformers, XAI, NLP, DASK, IBM Watson, crepes, MAPIE, Orange
+    - name: Analysis
+      value: Microsoft Excel, IBM SPSS, Minitab, TORA, Beautiful Soup, Biopython, Bioconductor, NetworkX, ggplot2, matplotlib, seaborn, plotly
+    - name: Research
+      value: LaTeX, Microsoft Word, Zotero, Mendeley, Publish or Perish 8.0, Gephi, VOSviewer
+    - name: Others
+      value: Unix, Git, GCP, PyCharm, IntelliJ, Unity 2D, SolidWorks 2022, AutoCAD 2021
