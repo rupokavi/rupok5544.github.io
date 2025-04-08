@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Md Abrar
+first_name: Rupok Islam
 # middle_name: 
-last_name: Jahin
+last_name: Avi
 email: abrar.jahin.2652@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Md Abrar Jahin is a CS PhD student and Graduate Fellow at USC Viterbi. Abrar is affiliated as an AI Researcher and Multidisciplinary Scientist at the Center on Knowledge Graphs, Information Sciences Institute (ISI). His research interests lie at the confluence of efficient deep learning, quantum machine learning, geometric deep learning, and trustworthy AI, with applications in high-energy physics, healthcare, and supply chain optimization. His prior work spans reinforcement learning (RL), sentiment analysis, operations research, and comparative genomics.
